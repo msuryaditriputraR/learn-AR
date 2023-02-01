@@ -113,6 +113,9 @@
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"D:/unity/AR/Cube/Library/PackageCache/com.ptc.vuforia.engine@ad7ad60b4246/Vuforia/Plugins/Managed/Editor/Vuforia.Unity.Editor.dll"
+-r:"D:/unity/AR/Cube/Library/PackageCache/com.ptc.vuforia.engine@ad7ad60b4246/Vuforia/Plugins/Managed/Runtime/Vuforia.Unity.Engine.dll"
+-r:"D:/unity/AR/Cube/Library/PackageCache/com.ptc.vuforia.engine@ad7ad60b4246/Vuforia/Plugins/Managed/Runtime/Vuforia.Unity.Wrapper.dll"
 -r:"D:/unity/AR/Cube/Library/PackageCache/com.unity.collab-proxy@1.17.7/Lib/Editor/PlasticSCM/log4netPlastic.dll"
 -r:"D:/unity/AR/Cube/Library/PackageCache/com.unity.collab-proxy@1.17.7/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
 -r:"D:/unity/AR/Cube/Library/PackageCache/com.unity.collab-proxy@1.17.7/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
